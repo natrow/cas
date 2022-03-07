@@ -18,3 +18,12 @@ The hope is to be able to extend this project into a webserver that takes in HTM
 evaluates them, and responds with PNG rendered answers using the Restful API. That API would
 be consumed by a Discord bot, allowing for an extremely powerful and flexible "pocket calculator"
 CAS.
+
+Pieces of the Puzzle:
+
+ - Discord Bot Interface
+ - NodeJS compatible API
+ - String tokenizer
+ - Parser
+ - Simplification System/central CAS (Nathan)
+ - Latex generator (Yaqub)
